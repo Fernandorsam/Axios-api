@@ -45,13 +45,13 @@ function deleteUser(id){
 
 
 const newUser = {//adicionando novo usuario com POST
-    name: "Fernando Rodrigues",
+    name: "Fulano de Tal",
     avatar : "https://picsum.photos/200/300",
-    city : "Brasilia-DF"
+    city : "Sao-Sp"
 }
 const setUser = {// alterando usuario com metodo PUT
-    name:"Maria Eduarda",
-    city: "Recanto-DF",
+    name:"Alguem Por Ai",
+    city: "BSB-DF",
     avatar: "https://picsum.photos/200/300"
 }
 
